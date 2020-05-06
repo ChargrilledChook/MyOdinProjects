@@ -17,7 +17,7 @@ An index of my assignments for The Odin Project.
 
 [Basic Ruby Projects](https://github.com/ChargrilledChook/BasicRubyProjects)
 
-..* [Caesar](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/caesar.rb)
-..* [Substrings](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/sub-strings.rb) - in progress
-..* Stock Picker
-..* Bubble Sort
+* [Caesar](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/caesar.rb)
+* [Substrings](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/sub-strings.rb) - in progress
+* Stock Picker
+* Bubble Sort
