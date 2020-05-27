@@ -18,10 +18,11 @@ An index of my assignments for The Odin Project.
 ### [Basic Ruby Projects](https://github.com/ChargrilledChook/BasicRubyProjects)
 
 * [Caesar](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/caesar.rb)
-* [Substrings](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/sub-strings.rb) - in progress
+* [Substrings](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/sub-strings.rb)
 * [Stock Picker](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/stock_picker.rb)
 * [Bubble Sort](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/bubble_sort.rb)
 
 ### [Object Oriented Programming]() - In progress
 
-* [Tic Tac Toe]() 
+* [Tic Tac Toe](https://github.com/ChargrilledChook/tic-tac-toe)  - [View in Repl.it](https://repl.it/@HappyFrog/tic-tac-toe#.replit)
+* [Mastermind](https://github.com/ChargrilledChook/mastermind) - [View in Repl.it]()
