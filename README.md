@@ -1,4 +1,5 @@
 # MyOdinProjects #
+
 An index of my assignments for The Odin Project.
 
 ## Web Dev 101 ##
@@ -22,7 +23,11 @@ An index of my assignments for The Odin Project.
 * [Stock Picker](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/stock_picker.rb)
 * [Bubble Sort](https://github.com/ChargrilledChook/BasicRubyProjects/blob/master/bubble_sort.rb)
 
-### [Object Oriented Programming]() - In progress
+### [Object Oriented Programming]
 
 * [Tic Tac Toe](https://github.com/ChargrilledChook/tic-tac-toe)  - [View in Repl.it](https://repl.it/@HappyFrog/tic-tac-toe#.replit)
-* [Mastermind](https://github.com/ChargrilledChook/mastermind) - [View in Repl.it]()
+* [Mastermind](https://github.com/ChargrilledChook/mastermind) - [View in Repl.it](https://repl.it/@HappyFrog/mastermind-1#README.md)
+
+## File I/O
+
+* [Hangman](https://github.com/ChargrilledChook/Hangman) - [View in Repl.it](https://repl.it/@HappyFrog/Hangman#README.md)
